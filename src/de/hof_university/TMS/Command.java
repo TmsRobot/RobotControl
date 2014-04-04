@@ -1,7 +1,7 @@
 package de.hof_university.TMS;
 
 public class Command {
-	private String source;		//test
+	private String source;
 	private String destination;
 	private char msgType;
 	private String msgNumber;
